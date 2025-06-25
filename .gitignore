@@ -113,3 +113,5 @@ venv-lut/
 # Custom directories
 output_*/
 input_*/
+
+lut_model.pkl
